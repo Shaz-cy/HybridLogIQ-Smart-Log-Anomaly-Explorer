@@ -36,6 +36,7 @@ Copy code
 cd anomaly-dashboard
 npm install
 npm run dev
+
 📊 Visualizations
 Heatmaps of error distribution
 SOM cluster maps
