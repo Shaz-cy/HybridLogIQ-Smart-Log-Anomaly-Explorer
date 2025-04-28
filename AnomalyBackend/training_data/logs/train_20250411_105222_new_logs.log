@@ -1,0 +1,1000 @@
+ERROR [System] Panic: kernel fault at 2025-04-10 07:26:01
+STACKTRACE >>> NullReferenceException at module cache
+INFO [System] Service SSH started at 2025-04-10 06:15:49
+DEBUG [Disk] Disk usage at 71% on D:
+INFO [Auth] User alice logged in from IP 104.128.27.219
+ERROR [System] Panic: kernel fault at 2025-04-10 13:14:45
+INFO [System] Service DNS started at 2025-04-10 16:47:51
+STACKTRACE >>> NullReferenceException at module cache
+DEBUG [Disk] Disk usage at 75% on D:
+INFO [Auth] User alice logged in from IP 137.196.75.45
+INFO [System] Service DB started at 2025-04-11 01:44:22
+ERROR [System] Panic: kernel fault at 2025-04-10 19:06:00
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 5969
+INFO [Scheduler] Job 2270 executed at 2025-04-11 04:58:07
+STACKTRACE >>> NullReferenceException at module db
+ALERT [Auth] Intrusion detected from IP 93.139.91.155
+DEBUG [Cache] Cache refreshed for key profileXYZ
+INFO [Auth] User alice logged in from IP 1.188.126.71
+STACKTRACE >>> NullReferenceException at module db
+ALERT [Auth] Intrusion detected from IP 200.49.68.192
+ERROR [System] Panic: kernel fault at 2025-04-11 04:31:16
+STACKTRACE >>> NullReferenceException at module db
+ERROR [System] Panic: kernel fault at 2025-04-10 20:58:53
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Scheduler] Job 7190 executed at 2025-04-11 00:07:56
+INFO [System] Service SSH started at 2025-04-11 01:33:55
+INFO [Scheduler] Job 8920 executed at 2025-04-10 14:40:17
+STACKTRACE >>> NullReferenceException at module db
+ERROR [System] Panic: kernel fault at 2025-04-10 09:10:02
+DEBUG [Disk] Disk usage at 65% on D:
+STACKTRACE >>> NullReferenceException at module db
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Auth] User charlie logged in from IP 25.36.124.24
+CRITICAL [Memory] Memory leak detected in process 9466
+STACKTRACE >>> NullReferenceException at module db
+ERROR [System] Panic: kernel fault at 2025-04-10 16:55:50
+INFO [Auth] User charlie logged in from IP 174.183.207.155
+CRITICAL [Memory] Memory leak detected in process 4450
+STACKTRACE >>> NullReferenceException at module cache
+INFO [System] Service SSH started at 2025-04-10 08:44:46
+INFO [Scheduler] Job 1949 executed at 2025-04-11 00:14:46
+STACKTRACE >>> NullReferenceException at module net
+STACKTRACE >>> NullReferenceException at module cache
+STACKTRACE >>> NullReferenceException at module auth
+CRITICAL [Memory] Memory leak detected in process 4592
+INFO [Auth] User bob logged in from IP 247.231.9.76
+ERROR [System] Panic: kernel fault at 2025-04-11 00:28:16
+INFO [System] Service SSH started at 2025-04-10 14:33:18
+DEBUG [Cache] Cache refreshed for key session123
+INFO [Auth] User bob logged in from IP 64.46.18.83
+STACKTRACE >>> NullReferenceException at module net
+ALERT [Auth] Intrusion detected from IP 20.131.147.71
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 6292
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-10 22:58:31
+INFO [System] Service DB started at 2025-04-10 19:01:20
+DEBUG [Cache] Cache refreshed for key profileXYZ
+STACKTRACE >>> NullReferenceException at module auth
+INFO [Scheduler] Job 2246 executed at 2025-04-10 08:12:38
+ALERT [Auth] Intrusion detected from IP 181.114.72.194
+DEBUG [Cache] Cache refreshed for key profileXYZ
+ALERT [Auth] Intrusion detected from IP 236.248.104.107
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Auth] User charlie logged in from IP 239.14.147.215
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 4397
+DEBUG [Disk] Disk usage at 94% on D:
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Scheduler] Job 9416 executed at 2025-04-10 17:15:19
+CRITICAL [Memory] Memory leak detected in process 8808
+INFO [Auth] User alice logged in from IP 183.203.211.100
+STACKTRACE >>> NullReferenceException at module cache
+ALERT [Auth] Intrusion detected from IP 192.33.249.206
+INFO [System] Service DB started at 2025-04-10 08:39:30
+DEBUG [Disk] Disk usage at 68% on E:
+DEBUG [Disk] Disk usage at 65% on D:
+ERROR [System] Panic: kernel fault at 2025-04-10 20:59:08
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-10 16:27:14
+STACKTRACE >>> NullReferenceException at module cache
+DEBUG [Disk] Disk usage at 74% on C:
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-10 08:41:15
+DEBUG [Disk] Disk usage at 57% on E:
+INFO [Auth] User bob logged in from IP 152.8.97.12
+DEBUG [Cache] Cache refreshed for key profileXYZ
+STACKTRACE >>> NullReferenceException at module net
+DEBUG [Disk] Disk usage at 93% on E:
+STACKTRACE >>> NullReferenceException at module auth
+INFO [System] Service SSH started at 2025-04-10 15:34:04
+DEBUG [Cache] Cache refreshed for key profileXYZ
+DEBUG [Cache] Cache refreshed for key item42
+STACKTRACE >>> NullReferenceException at module db
+DEBUG [Cache] Cache refreshed for key session123
+DEBUG [Cache] Cache refreshed for key item42
+INFO [System] Service SSH started at 2025-04-10 13:45:13
+INFO [Scheduler] Job 5329 executed at 2025-04-10 10:23:50
+DEBUG [Cache] Cache refreshed for key item42
+INFO [System] Service HTTP started at 2025-04-10 18:53:06
+DEBUG [Disk] Disk usage at 92% on D:
+ERROR [System] Panic: kernel fault at 2025-04-11 01:45:59
+STACKTRACE >>> NullReferenceException at module db
+DEBUG [Disk] Disk usage at 60% on C:
+INFO [Auth] User admin logged in from IP 114.170.2.166
+CRITICAL [Memory] Memory leak detected in process 2426
+STACKTRACE >>> NullReferenceException at module cache
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 9732 executed at 2025-04-10 10:20:46
+INFO [Auth] User charlie logged in from IP 206.83.176.8
+INFO [Scheduler] Job 8638 executed at 2025-04-11 00:03:39
+DEBUG [Disk] Disk usage at 53% on E:
+STACKTRACE >>> NullReferenceException at module cache
+INFO [Auth] User admin logged in from IP 33.44.131.147
+DEBUG [Disk] Disk usage at 94% on D:
+DEBUG [Disk] Disk usage at 93% on E:
+CRITICAL [Memory] Memory leak detected in process 7758
+ALERT [Auth] Intrusion detected from IP 32.83.246.148
+CRITICAL [Memory] Memory leak detected in process 8814
+CRITICAL [Memory] Memory leak detected in process 9149
+INFO [Scheduler] Job 4550 executed at 2025-04-10 16:08:59
+ERROR [System] Panic: kernel fault at 2025-04-10 11:02:48
+STACKTRACE >>> NullReferenceException at module db
+CRITICAL [Memory] Memory leak detected in process 2018
+DEBUG [Cache] Cache refreshed for key item42
+STACKTRACE >>> NullReferenceException at module net
+STACKTRACE >>> NullReferenceException at module cache
+DEBUG [Cache] Cache refreshed for key profileXYZ
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Auth] User admin logged in from IP 200.33.210.88
+DEBUG [Cache] Cache refreshed for key session123
+CRITICAL [Memory] Memory leak detected in process 6860
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service DB started at 2025-04-11 01:26:13
+STACKTRACE >>> NullReferenceException at module net
+INFO [Auth] User admin logged in from IP 74.115.249.217
+INFO [System] Service SSH started at 2025-04-10 23:27:55
+CRITICAL [Memory] Memory leak detected in process 3727
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Auth] User alice logged in from IP 89.175.234.112
+INFO [Auth] User alice logged in from IP 119.38.171.253
+INFO [Auth] User alice logged in from IP 161.176.39.185
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module db
+INFO [Auth] User admin logged in from IP 142.247.32.29
+DEBUG [Cache] Cache refreshed for key session123
+INFO [Scheduler] Job 7292 executed at 2025-04-10 11:33:38
+ERROR [System] Panic: kernel fault at 2025-04-10 23:56:25
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-11 04:17:12
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ALERT [Auth] Intrusion detected from IP 56.210.215.66
+CRITICAL [Memory] Memory leak detected in process 6358
+STACKTRACE >>> NullReferenceException at module auth
+INFO [Scheduler] Job 5364 executed at 2025-04-10 18:47:03
+ERROR [System] Panic: kernel fault at 2025-04-10 10:11:05
+INFO [Scheduler] Job 5283 executed at 2025-04-10 06:34:57
+INFO [System] Service DB started at 2025-04-10 11:57:40
+INFO [Auth] User alice logged in from IP 137.236.13.132
+INFO [Auth] User admin logged in from IP 76.137.64.15
+INFO [System] Service DNS started at 2025-04-11 03:17:59
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Auth] User admin logged in from IP 75.209.201.226
+CRITICAL [Memory] Memory leak detected in process 5443
+INFO [Auth] User alice logged in from IP 189.224.69.190
+ERROR [System] Panic: kernel fault at 2025-04-10 11:40:29
+INFO [System] Service HTTP started at 2025-04-10 11:45:00
+INFO [System] Service DNS started at 2025-04-10 08:50:41
+DEBUG [Cache] Cache refreshed for key session123
+INFO [System] Service DB started at 2025-04-11 00:25:01
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 3455 executed at 2025-04-10 18:19:43
+INFO [Auth] User bob logged in from IP 17.226.56.1
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 5833
+INFO [System] Service SSH started at 2025-04-10 17:56:22
+ERROR [System] Panic: kernel fault at 2025-04-10 16:24:53
+INFO [System] Service HTTP started at 2025-04-10 12:12:23
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Disk] Disk usage at 55% on C:
+ERROR [System] Panic: kernel fault at 2025-04-10 13:33:26
+INFO [System] Service DNS started at 2025-04-10 16:59:59
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Cache] Cache refreshed for key profileXYZ
+ERROR [System] Panic: kernel fault at 2025-04-10 06:06:14
+DEBUG [Disk] Disk usage at 72% on E:
+ALERT [Auth] Intrusion detected from IP 191.143.220.137
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Auth] User alice logged in from IP 206.29.174.32
+STACKTRACE >>> NullReferenceException at module auth
+ALERT [Auth] Intrusion detected from IP 103.243.96.237
+DEBUG [Disk] Disk usage at 61% on E:
+DEBUG [Cache] Cache refreshed for key profileXYZ
+DEBUG [Cache] Cache refreshed for key item42
+CRITICAL [Memory] Memory leak detected in process 1322
+INFO [System] Service DNS started at 2025-04-10 20:45:46
+DEBUG [Disk] Disk usage at 52% on E:
+ERROR [System] Panic: kernel fault at 2025-04-10 12:23:41
+INFO [Scheduler] Job 1055 executed at 2025-04-10 06:14:16
+DEBUG [Cache] Cache refreshed for key profileXYZ
+DEBUG [Cache] Cache refreshed for key session123
+INFO [Scheduler] Job 1160 executed at 2025-04-10 13:26:55
+DEBUG [Disk] Disk usage at 62% on E:
+INFO [System] Service DB started at 2025-04-10 13:05:35
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Auth] User charlie logged in from IP 5.213.166.189
+DEBUG [Disk] Disk usage at 92% on E:
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service HTTP started at 2025-04-10 15:43:18
+DEBUG [Disk] Disk usage at 70% on D:
+INFO [Scheduler] Job 6174 executed at 2025-04-11 04:56:05
+INFO [System] Service DNS started at 2025-04-10 20:18:57
+STACKTRACE >>> NullReferenceException at module db
+INFO [Scheduler] Job 3577 executed at 2025-04-10 11:20:07
+DEBUG [Disk] Disk usage at 87% on D:
+ALERT [Auth] Intrusion detected from IP 239.128.109.109
+DEBUG [Cache] Cache refreshed for key item42
+DEBUG [Disk] Disk usage at 67% on D:
+INFO [System] Service SSH started at 2025-04-11 00:41:21
+ALERT [Auth] Intrusion detected from IP 109.66.132.152
+DEBUG [Cache] Cache refreshed for key item42
+CRITICAL [Memory] Memory leak detected in process 1401
+INFO [Auth] User bob logged in from IP 141.230.235.103
+STACKTRACE >>> NullReferenceException at module cache
+ERROR [System] Panic: kernel fault at 2025-04-10 12:33:20
+DEBUG [Disk] Disk usage at 58% on D:
+INFO [Auth] User bob logged in from IP 116.31.8.8
+ERROR [System] Panic: kernel fault at 2025-04-10 06:32:20
+DEBUG [Cache] Cache refreshed for key profileXYZ
+DEBUG [Disk] Disk usage at 88% on C:
+INFO [Auth] User bob logged in from IP 223.179.47.72
+CRITICAL [Memory] Memory leak detected in process 1121
+INFO [Scheduler] Job 1031 executed at 2025-04-11 02:22:28
+INFO [System] Service DNS started at 2025-04-10 10:33:22
+STACKTRACE >>> NullReferenceException at module db
+INFO [Scheduler] Job 3144 executed at 2025-04-10 13:27:26
+DEBUG [Cache] Cache refreshed for key session123
+STACKTRACE >>> NullReferenceException at module auth
+ERROR [System] Panic: kernel fault at 2025-04-10 16:28:34
+INFO [Auth] User alice logged in from IP 136.38.70.106
+ERROR [System] Panic: kernel fault at 2025-04-10 17:18:53
+DEBUG [Disk] Disk usage at 85% on E:
+STACKTRACE >>> NullReferenceException at module net
+STACKTRACE >>> NullReferenceException at module net
+INFO [Auth] User admin logged in from IP 74.103.241.72
+DEBUG [Cache] Cache refreshed for key session123
+INFO [Scheduler] Job 7628 executed at 2025-04-10 22:31:00
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service DNS started at 2025-04-10 19:31:28
+INFO [Scheduler] Job 9526 executed at 2025-04-10 19:00:15
+DEBUG [Cache] Cache refreshed for key item42
+DEBUG [Cache] Cache refreshed for key session123
+INFO [System] Service DB started at 2025-04-10 20:32:51
+INFO [Scheduler] Job 7922 executed at 2025-04-10 20:09:22
+STACKTRACE >>> NullReferenceException at module db
+INFO [Auth] User bob logged in from IP 242.74.26.151
+DEBUG [Disk] Disk usage at 80% on E:
+DEBUG [Cache] Cache refreshed for key profileXYZ
+INFO [System] Service SSH started at 2025-04-10 21:54:45
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 3251
+STACKTRACE >>> NullReferenceException at module auth
+INFO [System] Service DB started at 2025-04-10 09:20:59
+CRITICAL [Memory] Memory leak detected in process 2852
+STACKTRACE >>> NullReferenceException at module auth
+DEBUG [Disk] Disk usage at 86% on E:
+INFO [System] Service SSH started at 2025-04-10 12:09:20
+INFO [System] Service HTTP started at 2025-04-11 01:36:45
+STACKTRACE >>> NullReferenceException at module cache
+CRITICAL [Memory] Memory leak detected in process 6235
+STACKTRACE >>> NullReferenceException at module net
+ALERT [Auth] Intrusion detected from IP 198.162.223.78
+INFO [System] Service DB started at 2025-04-10 07:57:53
+CRITICAL [Memory] Memory leak detected in process 5948
+ALERT [Auth] Intrusion detected from IP 171.35.202.166
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Cache] Cache refreshed for key session123
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service HTTP started at 2025-04-10 09:58:21
+CRITICAL [Memory] Memory leak detected in process 8615
+INFO [Auth] User alice logged in from IP 24.208.191.119
+DEBUG [Cache] Cache refreshed for key item42
+STACKTRACE >>> NullReferenceException at module cache
+ERROR [System] Panic: kernel fault at 2025-04-11 03:21:34
+INFO [Scheduler] Job 8210 executed at 2025-04-10 19:35:42
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ALERT [Auth] Intrusion detected from IP 186.133.160.204
+INFO [Auth] User charlie logged in from IP 245.193.136.100
+INFO [System] Service HTTP started at 2025-04-10 21:48:04
+INFO [System] Service SSH started at 2025-04-10 16:25:04
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module net
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 1063 executed at 2025-04-11 00:20:37
+INFO [Auth] User charlie logged in from IP 63.127.171.207
+DEBUG [Disk] Disk usage at 56% on C:
+ERROR [System] Panic: kernel fault at 2025-04-10 19:58:06
+ERROR [System] Panic: kernel fault at 2025-04-10 15:21:09
+INFO [Auth] User admin logged in from IP 142.11.233.146
+DEBUG [Disk] Disk usage at 57% on C:
+INFO [System] Service DNS started at 2025-04-10 12:32:56
+ERROR [System] Panic: kernel fault at 2025-04-10 17:22:57
+ERROR [System] Panic: kernel fault at 2025-04-10 16:55:37
+INFO [Scheduler] Job 4962 executed at 2025-04-10 19:54:42
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service SSH started at 2025-04-10 05:21:44
+DEBUG [Cache] Cache refreshed for key session123
+INFO [Scheduler] Job 9064 executed at 2025-04-11 02:47:21
+CRITICAL [Memory] Memory leak detected in process 8165
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service DNS started at 2025-04-10 22:38:07
+DEBUG [Cache] Cache refreshed for key profileXYZ
+INFO [System] Service DNS started at 2025-04-10 21:47:54
+ERROR [System] Panic: kernel fault at 2025-04-11 01:05:44
+CRITICAL [Memory] Memory leak detected in process 3500
+INFO [Scheduler] Job 1642 executed at 2025-04-10 19:16:40
+DEBUG [Cache] Cache refreshed for key session123
+STACKTRACE >>> NullReferenceException at module net
+INFO [System] Service DNS started at 2025-04-10 07:16:45
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Scheduler] Job 3879 executed at 2025-04-10 19:21:16
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Auth] User bob logged in from IP 36.51.242.47
+ALERT [Auth] Intrusion detected from IP 171.208.74.93
+DEBUG [Cache] Cache refreshed for key item42
+ERROR [System] Panic: kernel fault at 2025-04-10 08:43:22
+STACKTRACE >>> NullReferenceException at module cache
+DEBUG [Disk] Disk usage at 64% on C:
+DEBUG [Cache] Cache refreshed for key profileXYZ
+INFO [Auth] User charlie logged in from IP 253.96.253.108
+ALERT [Auth] Intrusion detected from IP 60.27.142.57
+INFO [System] Service SSH started at 2025-04-10 16:26:21
+INFO [System] Service DNS started at 2025-04-10 14:00:05
+INFO [Auth] User charlie logged in from IP 170.39.26.179
+ERROR [System] Panic: kernel fault at 2025-04-10 14:52:30
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 6474 executed at 2025-04-10 06:36:55
+CRITICAL [Memory] Memory leak detected in process 7677
+DEBUG [Disk] Disk usage at 57% on E:
+STACKTRACE >>> NullReferenceException at module net
+CRITICAL [Memory] Memory leak detected in process 5634
+INFO [System] Service SSH started at 2025-04-10 18:14:51
+INFO [Scheduler] Job 2662 executed at 2025-04-10 10:00:38
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 7606
+INFO [Scheduler] Job 4294 executed at 2025-04-10 22:09:48
+ERROR [System] Panic: kernel fault at 2025-04-10 17:03:48
+DEBUG [Cache] Cache refreshed for key profileXYZ
+INFO [Auth] User charlie logged in from IP 210.85.138.190
+DEBUG [Cache] Cache refreshed for key session123
+INFO [System] Service SSH started at 2025-04-10 07:38:19
+DEBUG [Cache] Cache refreshed for key item42
+CRITICAL [Memory] Memory leak detected in process 7619
+CRITICAL [Memory] Memory leak detected in process 5197
+DEBUG [Disk] Disk usage at 93% on D:
+INFO [System] Service HTTP started at 2025-04-10 11:37:13
+INFO [Scheduler] Job 1711 executed at 2025-04-10 19:35:44
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 7331 executed at 2025-04-10 10:32:30
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Auth] User charlie logged in from IP 197.146.254.214
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 6187
+CRITICAL [Memory] Memory leak detected in process 6443
+DEBUG [Cache] Cache refreshed for key profileXYZ
+INFO [Scheduler] Job 4104 executed at 2025-04-10 07:47:56
+STACKTRACE >>> NullReferenceException at module db
+STACKTRACE >>> NullReferenceException at module db
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module auth
+ERROR [System] Panic: kernel fault at 2025-04-10 16:47:51
+CRITICAL [Memory] Memory leak detected in process 2468
+ERROR [System] Panic: kernel fault at 2025-04-10 17:54:22
+ERROR [System] Panic: kernel fault at 2025-04-10 22:05:56
+INFO [Auth] User bob logged in from IP 64.19.251.41
+INFO [Auth] User admin logged in from IP 243.232.142.32
+CRITICAL [Memory] Memory leak detected in process 5974
+STACKTRACE >>> NullReferenceException at module cache
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Auth] User admin logged in from IP 81.97.180.220
+ERROR [System] Panic: kernel fault at 2025-04-10 10:30:18
+DEBUG [Disk] Disk usage at 51% on E:
+CRITICAL [Memory] Memory leak detected in process 6645
+STACKTRACE >>> NullReferenceException at module auth
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Disk] Disk usage at 89% on D:
+DEBUG [Disk] Disk usage at 51% on C:
+DEBUG [Disk] Disk usage at 86% on E:
+ALERT [Auth] Intrusion detected from IP 186.79.125.118
+CRITICAL [Memory] Memory leak detected in process 8558
+ERROR [System] Panic: kernel fault at 2025-04-10 06:21:56
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module auth
+INFO [Auth] User bob logged in from IP 235.108.159.220
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 7663
+DEBUG [Disk] Disk usage at 57% on E:
+INFO [System] Service DNS started at 2025-04-10 22:12:24
+INFO [Auth] User charlie logged in from IP 208.184.240.162
+DEBUG [Disk] Disk usage at 62% on E:
+DEBUG [Cache] Cache refreshed for key profileXYZ
+STACKTRACE >>> NullReferenceException at module auth
+CRITICAL [Memory] Memory leak detected in process 8440
+DEBUG [Cache] Cache refreshed for key item42
+ERROR [System] Panic: kernel fault at 2025-04-10 09:57:57
+INFO [Auth] User admin logged in from IP 133.237.195.59
+ALERT [Auth] Intrusion detected from IP 93.54.161.147
+DEBUG [Cache] Cache refreshed for key item42
+ERROR [System] Panic: kernel fault at 2025-04-10 15:46:11
+INFO [Scheduler] Job 4802 executed at 2025-04-10 06:56:39
+INFO [Scheduler] Job 7318 executed at 2025-04-11 02:10:12
+DEBUG [Cache] Cache refreshed for key profileXYZ
+DEBUG [Cache] Cache refreshed for key item42
+INFO [System] Service DNS started at 2025-04-11 04:02:45
+ERROR [System] Panic: kernel fault at 2025-04-10 23:28:25
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 3375 executed at 2025-04-10 17:44:50
+DEBUG [Disk] Disk usage at 76% on E:
+DEBUG [Cache] Cache refreshed for key session123
+INFO [Auth] User charlie logged in from IP 167.183.239.188
+STACKTRACE >>> NullReferenceException at module db
+ALERT [Auth] Intrusion detected from IP 186.109.74.219
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service DB started at 2025-04-10 15:29:41
+CRITICAL [Memory] Memory leak detected in process 7350
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 1254 executed at 2025-04-11 00:33:32
+INFO [Auth] User bob logged in from IP 50.179.171.21
+DEBUG [Disk] Disk usage at 73% on E:
+ALERT [Auth] Intrusion detected from IP 92.165.99.218
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module cache
+INFO [Scheduler] Job 6860 executed at 2025-04-10 20:37:05
+ALERT [Auth] Intrusion detected from IP 131.42.103.103
+INFO [Auth] User alice logged in from IP 191.176.26.89
+INFO [Auth] User charlie logged in from IP 189.205.143.222
+ERROR [System] Panic: kernel fault at 2025-04-10 09:28:26
+INFO [Auth] User alice logged in from IP 56.148.61.180
+STACKTRACE >>> NullReferenceException at module auth
+STACKTRACE >>> NullReferenceException at module auth
+INFO [Auth] User charlie logged in from IP 26.28.41.104
+INFO [Auth] User bob logged in from IP 131.143.202.179
+INFO [Scheduler] Job 6973 executed at 2025-04-11 01:20:48
+DEBUG [Disk] Disk usage at 83% on C:
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service HTTP started at 2025-04-11 00:38:55
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ALERT [Auth] Intrusion detected from IP 240.8.221.159
+ALERT [Auth] Intrusion detected from IP 249.245.29.12
+INFO [Auth] User alice logged in from IP 248.25.213.129
+CRITICAL [Memory] Memory leak detected in process 3191
+ALERT [Auth] Intrusion detected from IP 99.196.99.233
+ERROR [System] Panic: kernel fault at 2025-04-10 22:47:03
+ALERT [Auth] Intrusion detected from IP 216.87.66.232
+DEBUG [Disk] Disk usage at 89% on C:
+DEBUG [Disk] Disk usage at 60% on C:
+DEBUG [Cache] Cache refreshed for key session123
+INFO [System] Service DNS started at 2025-04-10 07:45:48
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 4323
+INFO [System] Service HTTP started at 2025-04-10 14:32:31
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Disk] Disk usage at 59% on D:
+ERROR [System] Panic: kernel fault at 2025-04-10 05:34:41
+ERROR [System] Panic: kernel fault at 2025-04-10 23:15:38
+ERROR [System] Panic: kernel fault at 2025-04-10 08:33:59
+ALERT [Auth] Intrusion detected from IP 255.179.198.153
+CRITICAL [Memory] Memory leak detected in process 6042
+STACKTRACE >>> NullReferenceException at module auth
+STACKTRACE >>> NullReferenceException at module net
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Cache] Cache refreshed for key profileXYZ
+ERROR [System] Panic: kernel fault at 2025-04-10 12:17:36
+ERROR [System] Panic: kernel fault at 2025-04-10 19:41:35
+DEBUG [Disk] Disk usage at 67% on C:
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Auth] User alice logged in from IP 69.143.60.132
+INFO [Auth] User alice logged in from IP 98.207.120.35
+DEBUG [Disk] Disk usage at 66% on C:
+INFO [Scheduler] Job 5482 executed at 2025-04-10 14:06:55
+ERROR [System] Panic: kernel fault at 2025-04-10 22:09:23
+ALERT [Auth] Intrusion detected from IP 141.69.90.72
+INFO [Auth] User alice logged in from IP 78.67.155.113
+DEBUG [Cache] Cache refreshed for key session123
+ALERT [Auth] Intrusion detected from IP 45.201.132.159
+INFO [Auth] User alice logged in from IP 43.116.100.94
+DEBUG [Disk] Disk usage at 83% on C:
+ERROR [System] Panic: kernel fault at 2025-04-10 23:32:33
+ERROR [System] Panic: kernel fault at 2025-04-11 05:07:23
+INFO [Scheduler] Job 3634 executed at 2025-04-10 13:30:46
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Scheduler] Job 1068 executed at 2025-04-10 07:46:41
+DEBUG [Disk] Disk usage at 78% on E:
+ALERT [Auth] Intrusion detected from IP 195.10.206.99
+ALERT [Auth] Intrusion detected from IP 10.111.218.47
+ALERT [Auth] Intrusion detected from IP 208.197.244.231
+STACKTRACE >>> NullReferenceException at module net
+DEBUG [Disk] Disk usage at 86% on D:
+INFO [Auth] User admin logged in from IP 250.118.186.170
+DEBUG [Disk] Disk usage at 68% on C:
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 4107 executed at 2025-04-11 04:00:46
+ERROR [System] Panic: kernel fault at 2025-04-10 08:10:23
+CRITICAL [Memory] Memory leak detected in process 8152
+INFO [System] Service SSH started at 2025-04-11 04:14:53
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-10 20:15:39
+INFO [Auth] User bob logged in from IP 230.117.239.200
+DEBUG [Cache] Cache refreshed for key profileXYZ
+ERROR [System] Panic: kernel fault at 2025-04-11 02:34:34
+DEBUG [Disk] Disk usage at 90% on E:
+STACKTRACE >>> NullReferenceException at module db
+INFO [Scheduler] Job 3029 executed at 2025-04-10 11:50:33
+INFO [System] Service HTTP started at 2025-04-10 12:58:47
+DEBUG [Cache] Cache refreshed for key session123
+CRITICAL [Memory] Memory leak detected in process 8302
+INFO [System] Service DNS started at 2025-04-11 04:02:25
+ALERT [Auth] Intrusion detected from IP 161.242.144.46
+DEBUG [Cache] Cache refreshed for key item42
+DEBUG [Disk] Disk usage at 62% on C:
+DEBUG [Disk] Disk usage at 65% on D:
+INFO [Auth] User alice logged in from IP 58.81.212.49
+DEBUG [Disk] Disk usage at 91% on E:
+STACKTRACE >>> NullReferenceException at module db
+DEBUG [Cache] Cache refreshed for key session123
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-10 06:05:06
+DEBUG [Cache] Cache refreshed for key profileXYZ
+DEBUG [Cache] Cache refreshed for key profileXYZ
+CRITICAL [Memory] Memory leak detected in process 2149
+STACKTRACE >>> NullReferenceException at module auth
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ALERT [Auth] Intrusion detected from IP 30.22.232.110
+STACKTRACE >>> NullReferenceException at module auth
+INFO [Scheduler] Job 1073 executed at 2025-04-10 11:29:37
+ALERT [Auth] Intrusion detected from IP 148.45.226.4
+INFO [Scheduler] Job 3961 executed at 2025-04-10 18:31:24
+INFO [Auth] User alice logged in from IP 179.171.178.233
+ALERT [Auth] Intrusion detected from IP 82.135.215.128
+DEBUG [Cache] Cache refreshed for key item42
+CRITICAL [Memory] Memory leak detected in process 8543
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Disk] Disk usage at 74% on D:
+INFO [System] Service HTTP started at 2025-04-11 00:42:51
+DEBUG [Cache] Cache refreshed for key profileXYZ
+ERROR [System] Panic: kernel fault at 2025-04-10 07:57:05
+INFO [Auth] User bob logged in from IP 51.202.162.138
+CRITICAL [Memory] Memory leak detected in process 5323
+INFO [System] Service DNS started at 2025-04-11 01:26:50
+INFO [Scheduler] Job 9144 executed at 2025-04-10 10:48:57
+STACKTRACE >>> NullReferenceException at module auth
+ALERT [Auth] Intrusion detected from IP 229.237.72.111
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 2477
+ALERT [Auth] Intrusion detected from IP 185.34.240.195
+INFO [Scheduler] Job 6413 executed at 2025-04-11 01:59:30
+STACKTRACE >>> NullReferenceException at module auth
+STACKTRACE >>> NullReferenceException at module db
+STACKTRACE >>> NullReferenceException at module cache
+INFO [System] Service DB started at 2025-04-10 07:20:38
+ALERT [Auth] Intrusion detected from IP 94.91.41.127
+INFO [System] Service DB started at 2025-04-10 11:25:37
+INFO [Scheduler] Job 4417 executed at 2025-04-10 11:19:42
+INFO [Auth] User bob logged in from IP 50.130.32.136
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 4371
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-10 06:04:25
+INFO [System] Service SSH started at 2025-04-10 08:57:53
+ERROR [System] Panic: kernel fault at 2025-04-11 02:21:52
+CRITICAL [Memory] Memory leak detected in process 5873
+ERROR [System] Panic: kernel fault at 2025-04-10 11:08:37
+ERROR [System] Panic: kernel fault at 2025-04-10 12:47:59
+CRITICAL [Memory] Memory leak detected in process 9962
+INFO [Scheduler] Job 2971 executed at 2025-04-10 19:23:27
+ALERT [Auth] Intrusion detected from IP 81.93.25.133
+INFO [System] Service DB started at 2025-04-10 16:17:42
+ALERT [Auth] Intrusion detected from IP 53.240.54.156
+ERROR [System] Panic: kernel fault at 2025-04-10 10:32:10
+DEBUG [Disk] Disk usage at 77% on E:
+INFO [Auth] User admin logged in from IP 55.104.254.56
+ERROR [System] Panic: kernel fault at 2025-04-10 05:59:45
+INFO [Scheduler] Job 4732 executed at 2025-04-10 08:10:06
+INFO [Auth] User alice logged in from IP 137.29.12.39
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 6122 executed at 2025-04-10 19:05:56
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service DB started at 2025-04-10 08:56:50
+INFO [System] Service HTTP started at 2025-04-10 23:34:37
+ALERT [Auth] Intrusion detected from IP 59.98.252.90
+DEBUG [Cache] Cache refreshed for key session123
+STACKTRACE >>> NullReferenceException at module db
+INFO [System] Service DB started at 2025-04-11 01:01:35
+ALERT [Auth] Intrusion detected from IP 17.244.114.48
+DEBUG [Disk] Disk usage at 93% on D:
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module db
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service HTTP started at 2025-04-10 09:54:31
+ALERT [Auth] Intrusion detected from IP 127.60.94.161
+INFO [Auth] User admin logged in from IP 205.212.239.43
+INFO [Auth] User alice logged in from IP 221.106.81.217
+DEBUG [Cache] Cache refreshed for key item42
+ALERT [Auth] Intrusion detected from IP 221.138.251.135
+DEBUG [Cache] Cache refreshed for key session123
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 1991 executed at 2025-04-10 05:37:36
+ERROR [System] Panic: kernel fault at 2025-04-10 14:17:09
+DEBUG [Disk] Disk usage at 56% on C:
+ERROR [System] Panic: kernel fault at 2025-04-11 02:06:03
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Disk] Disk usage at 77% on C:
+INFO [System] Service DNS started at 2025-04-10 14:43:27
+ALERT [Auth] Intrusion detected from IP 27.212.115.199
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module net
+ALERT [Auth] Intrusion detected from IP 197.40.212.252
+STACKTRACE >>> NullReferenceException at module db
+CRITICAL [Memory] Memory leak detected in process 5602
+CRITICAL [Memory] Memory leak detected in process 7243
+ALERT [Auth] Intrusion detected from IP 28.119.226.7
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service DNS started at 2025-04-10 05:47:21
+INFO [Auth] User bob logged in from IP 183.12.43.38
+ERROR [System] Panic: kernel fault at 2025-04-10 06:15:49
+ERROR [System] Panic: kernel fault at 2025-04-10 08:54:12
+ERROR [System] Panic: kernel fault at 2025-04-10 15:33:25
+CRITICAL [Memory] Memory leak detected in process 5572
+STACKTRACE >>> NullReferenceException at module net
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module net
+STACKTRACE >>> NullReferenceException at module net
+STACKTRACE >>> NullReferenceException at module db
+ALERT [Auth] Intrusion detected from IP 222.254.160.84
+DEBUG [Cache] Cache refreshed for key session123
+ERROR [System] Panic: kernel fault at 2025-04-11 00:14:50
+CRITICAL [Memory] Memory leak detected in process 8478
+INFO [Scheduler] Job 6844 executed at 2025-04-10 06:33:14
+DEBUG [Cache] Cache refreshed for key item42
+ALERT [Auth] Intrusion detected from IP 137.29.19.45
+STACKTRACE >>> NullReferenceException at module db
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 8988
+INFO [System] Service DNS started at 2025-04-11 03:09:20
+INFO [Auth] User alice logged in from IP 77.79.20.149
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service DNS started at 2025-04-10 18:07:20
+INFO [Auth] User alice logged in from IP 129.199.212.141
+DEBUG [Disk] Disk usage at 83% on E:
+DEBUG [Cache] Cache refreshed for key item42
+DEBUG [Disk] Disk usage at 90% on C:
+DEBUG [Cache] Cache refreshed for key session123
+STACKTRACE >>> NullReferenceException at module cache
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Disk] Disk usage at 51% on C:
+DEBUG [Cache] Cache refreshed for key profileXYZ
+ERROR [System] Panic: kernel fault at 2025-04-10 10:43:55
+INFO [Auth] User admin logged in from IP 173.191.20.239
+INFO [Auth] User alice logged in from IP 181.108.195.126
+ALERT [Auth] Intrusion detected from IP 111.105.76.222
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-10 06:05:58
+STACKTRACE >>> NullReferenceException at module cache
+INFO [Auth] User charlie logged in from IP 15.12.46.208
+DEBUG [Cache] Cache refreshed for key profileXYZ
+DEBUG [Disk] Disk usage at 72% on E:
+STACKTRACE >>> NullReferenceException at module db
+CRITICAL [Memory] Memory leak detected in process 9420
+INFO [System] Service HTTP started at 2025-04-10 07:14:25
+ALERT [Auth] Intrusion detected from IP 117.115.20.212
+INFO [Scheduler] Job 5578 executed at 2025-04-10 10:30:18
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 6359 executed at 2025-04-10 07:01:01
+INFO [System] Service DNS started at 2025-04-11 01:18:18
+ALERT [Auth] Intrusion detected from IP 4.158.199.59
+INFO [System] Service DB started at 2025-04-10 17:25:05
+INFO [Auth] User alice logged in from IP 231.114.4.112
+DEBUG [Disk] Disk usage at 69% on D:
+INFO [Scheduler] Job 4705 executed at 2025-04-10 10:14:58
+INFO [System] Service HTTP started at 2025-04-11 00:14:57
+CRITICAL [Memory] Memory leak detected in process 5985
+ALERT [Auth] Intrusion detected from IP 64.184.154.242
+INFO [Scheduler] Job 5299 executed at 2025-04-10 16:33:17
+CRITICAL [Memory] Memory leak detected in process 5356
+STACKTRACE >>> NullReferenceException at module db
+ERROR [System] Panic: kernel fault at 2025-04-10 10:38:07
+DEBUG [Disk] Disk usage at 51% on C:
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module cache
+STACKTRACE >>> NullReferenceException at module net
+DEBUG [Disk] Disk usage at 91% on E:
+DEBUG [Disk] Disk usage at 95% on E:
+ALERT [Auth] Intrusion detected from IP 237.175.198.110
+ERROR [System] Panic: kernel fault at 2025-04-10 07:47:04
+DEBUG [Cache] Cache refreshed for key session123
+STACKTRACE >>> NullReferenceException at module db
+ALERT [Auth] Intrusion detected from IP 119.136.153.59
+ERROR [System] Panic: kernel fault at 2025-04-10 22:20:01
+STACKTRACE >>> NullReferenceException at module auth
+INFO [Auth] User charlie logged in from IP 234.94.206.157
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module net
+INFO [Auth] User bob logged in from IP 91.86.59.232
+STACKTRACE >>> NullReferenceException at module auth
+ALERT [Auth] Intrusion detected from IP 132.112.210.165
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Disk] Disk usage at 61% on E:
+ERROR [System] Panic: kernel fault at 2025-04-10 13:35:50
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 4563 executed at 2025-04-10 16:37:28
+INFO [Auth] User bob logged in from IP 16.34.133.138
+INFO [System] Service SSH started at 2025-04-10 13:29:30
+ALERT [Auth] Intrusion detected from IP 198.68.176.108
+INFO [System] Service HTTP started at 2025-04-11 04:11:58
+INFO [Scheduler] Job 9334 executed at 2025-04-11 02:51:08
+INFO [Scheduler] Job 2383 executed at 2025-04-10 06:54:34
+INFO [Auth] User admin logged in from IP 255.197.201.45
+DEBUG [Disk] Disk usage at 66% on E:
+CRITICAL [Memory] Memory leak detected in process 9415
+STACKTRACE >>> NullReferenceException at module db
+ALERT [Auth] Intrusion detected from IP 173.30.10.140
+STACKTRACE >>> NullReferenceException at module cache
+INFO [Scheduler] Job 1736 executed at 2025-04-10 19:40:22
+INFO [Scheduler] Job 1838 executed at 2025-04-11 03:18:06
+INFO [System] Service HTTP started at 2025-04-10 13:45:53
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 7413
+INFO [Scheduler] Job 9120 executed at 2025-04-11 05:07:26
+DEBUG [Cache] Cache refreshed for key item42
+STACKTRACE >>> NullReferenceException at module net
+INFO [Scheduler] Job 7839 executed at 2025-04-10 18:24:11
+DEBUG [Disk] Disk usage at 87% on C:
+ALERT [Auth] Intrusion detected from IP 33.4.146.36
+INFO [Auth] User bob logged in from IP 66.255.160.68
+INFO [System] Service DNS started at 2025-04-10 11:41:30
+STACKTRACE >>> NullReferenceException at module net
+ERROR [System] Panic: kernel fault at 2025-04-10 12:58:24
+INFO [Auth] User charlie logged in from IP 147.88.251.117
+ERROR [System] Panic: kernel fault at 2025-04-10 05:41:27
+DEBUG [Disk] Disk usage at 56% on D:
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Cache] Cache refreshed for key item42
+DEBUG [Cache] Cache refreshed for key session123
+DEBUG [Cache] Cache refreshed for key session123
+ERROR [System] Panic: kernel fault at 2025-04-10 06:35:46
+INFO [Scheduler] Job 1212 executed at 2025-04-11 00:52:38
+STACKTRACE >>> NullReferenceException at module net
+ERROR [System] Panic: kernel fault at 2025-04-10 19:37:12
+STACKTRACE >>> NullReferenceException at module cache
+DEBUG [Disk] Disk usage at 69% on E:
+ERROR [System] Panic: kernel fault at 2025-04-10 15:18:58
+ERROR [System] Panic: kernel fault at 2025-04-10 21:02:17
+INFO [Scheduler] Job 5976 executed at 2025-04-10 16:31:34
+CRITICAL [Memory] Memory leak detected in process 6096
+ERROR [System] Panic: kernel fault at 2025-04-10 10:34:51
+DEBUG [Disk] Disk usage at 66% on C:
+DEBUG [Disk] Disk usage at 92% on E:
+DEBUG [Disk] Disk usage at 76% on E:
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [System] Service HTTP started at 2025-04-10 15:49:16
+INFO [Auth] User charlie logged in from IP 238.133.19.203
+DEBUG [Cache] Cache refreshed for key item42
+DEBUG [Cache] Cache refreshed for key profileXYZ
+INFO [Auth] User admin logged in from IP 252.240.130.55
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Auth] User bob logged in from IP 96.99.125.232
+STACKTRACE >>> NullReferenceException at module cache
+STACKTRACE >>> NullReferenceException at module db
+CRITICAL [Memory] Memory leak detected in process 4786
+DEBUG [Disk] Disk usage at 77% on D:
+INFO [Scheduler] Job 8897 executed at 2025-04-10 17:48:13
+DEBUG [Cache] Cache refreshed for key session123
+ALERT [Auth] Intrusion detected from IP 144.154.209.58
+DEBUG [Disk] Disk usage at 61% on E:
+ERROR [System] Panic: kernel fault at 2025-04-10 15:01:57
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ALERT [Auth] Intrusion detected from IP 248.34.37.38
+DEBUG [Disk] Disk usage at 85% on D:
+ERROR [System] Panic: kernel fault at 2025-04-10 17:52:30
+ERROR [System] Panic: kernel fault at 2025-04-10 18:00:08
+ALERT [Auth] Intrusion detected from IP 10.97.251.134
+INFO [System] Service SSH started at 2025-04-10 14:34:38
+CRITICAL [Memory] Memory leak detected in process 8260
+INFO [System] Service DB started at 2025-04-10 19:38:43
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Cache] Cache refreshed for key item42
+ERROR [System] Panic: kernel fault at 2025-04-10 22:45:40
+ALERT [Auth] Intrusion detected from IP 176.179.102.149
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 1851 executed at 2025-04-10 12:13:43
+DEBUG [Cache] Cache refreshed for key profileXYZ
+INFO [Auth] User bob logged in from IP 69.175.194.103
+DEBUG [Cache] Cache refreshed for key session123
+DEBUG [Cache] Cache refreshed for key session123
+CRITICAL [Memory] Memory leak detected in process 4108
+DEBUG [Cache] Cache refreshed for key session123
+STACKTRACE >>> NullReferenceException at module cache
+STACKTRACE >>> NullReferenceException at module db
+INFO [System] Service DNS started at 2025-04-10 21:09:37
+INFO [Scheduler] Job 6869 executed at 2025-04-10 23:51:49
+INFO [System] Service SSH started at 2025-04-11 02:16:39
+DEBUG [Disk] Disk usage at 78% on E:
+DEBUG [Disk] Disk usage at 72% on E:
+ALERT [Auth] Intrusion detected from IP 190.28.1.75
+INFO [Scheduler] Job 7784 executed at 2025-04-10 06:52:22
+CRITICAL [Memory] Memory leak detected in process 8075
+STACKTRACE >>> NullReferenceException at module cache
+INFO [Auth] User admin logged in from IP 43.92.116.209
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Scheduler] Job 3476 executed at 2025-04-10 14:39:25
+CRITICAL [Memory] Memory leak detected in process 6005
+STACKTRACE >>> NullReferenceException at module net
+INFO [Auth] User admin logged in from IP 162.6.226.73
+STACKTRACE >>> NullReferenceException at module cache
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Disk] Disk usage at 52% on C:
+INFO [System] Service DB started at 2025-04-10 21:17:28
+DEBUG [Cache] Cache refreshed for key session123
+INFO [Scheduler] Job 1098 executed at 2025-04-10 19:19:37
+DEBUG [Disk] Disk usage at 63% on C:
+CRITICAL [Memory] Memory leak detected in process 3036
+STACKTRACE >>> NullReferenceException at module auth
+ERROR [System] Panic: kernel fault at 2025-04-11 01:55:44
+ERROR [System] Panic: kernel fault at 2025-04-11 03:54:18
+DEBUG [Disk] Disk usage at 82% on C:
+ALERT [Auth] Intrusion detected from IP 210.136.195.93
+INFO [System] Service SSH started at 2025-04-11 01:10:26
+DEBUG [Cache] Cache refreshed for key item42
+ERROR [System] Panic: kernel fault at 2025-04-10 22:38:36
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+DEBUG [Disk] Disk usage at 82% on D:
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Auth] User admin logged in from IP 233.18.187.202
+INFO [Scheduler] Job 3144 executed at 2025-04-10 23:14:54
+ALERT [Auth] Intrusion detected from IP 37.251.195.193
+DEBUG [Cache] Cache refreshed for key session123
+ALERT [Auth] Intrusion detected from IP 146.78.120.210
+ERROR [System] Panic: kernel fault at 2025-04-10 23:45:15
+DEBUG [Cache] Cache refreshed for key profileXYZ
+INFO [Auth] User alice logged in from IP 160.65.37.54
+INFO [Scheduler] Job 2922 executed at 2025-04-11 04:15:10
+STACKTRACE >>> NullReferenceException at module db
+DEBUG [Disk] Disk usage at 87% on D:
+INFO [System] Service HTTP started at 2025-04-10 22:17:41
+INFO [Auth] User alice logged in from IP 234.196.138.14
+INFO [System] Service SSH started at 2025-04-10 14:45:26
+STACKTRACE >>> NullReferenceException at module db
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Auth] User charlie logged in from IP 179.152.154.117
+INFO [System] Service HTTP started at 2025-04-10 13:29:13
+INFO [Scheduler] Job 9290 executed at 2025-04-10 21:07:17
+ALERT [Auth] Intrusion detected from IP 187.34.13.19
+INFO [System] Service DNS started at 2025-04-10 11:17:58
+CRITICAL [Memory] Memory leak detected in process 5066
+DEBUG [Cache] Cache refreshed for key profileXYZ
+ERROR [System] Panic: kernel fault at 2025-04-10 10:36:19
+ERROR [System] Panic: kernel fault at 2025-04-10 18:05:18
+DEBUG [Cache] Cache refreshed for key item42
+ERROR [System] Panic: kernel fault at 2025-04-10 17:52:28
+INFO [System] Service SSH started at 2025-04-10 22:02:53
+INFO [Scheduler] Job 9173 executed at 2025-04-10 13:24:09
+STACKTRACE >>> NullReferenceException at module cache
+CRITICAL [Memory] Memory leak detected in process 7877
+INFO [System] Service DNS started at 2025-04-10 08:22:13
+CRITICAL [Memory] Memory leak detected in process 1077
+CRITICAL [Memory] Memory leak detected in process 5452
+STACKTRACE >>> NullReferenceException at module net
+STACKTRACE >>> NullReferenceException at module auth
+ERROR [System] Panic: kernel fault at 2025-04-11 01:59:59
+DEBUG [Disk] Disk usage at 91% on E:
+INFO [Scheduler] Job 8969 executed at 2025-04-10 07:42:04
+DEBUG [Disk] Disk usage at 80% on E:
+DEBUG [Disk] Disk usage at 76% on E:
+STACKTRACE >>> NullReferenceException at module db
+INFO [Scheduler] Job 6532 executed at 2025-04-10 23:33:28
+INFO [Scheduler] Job 2974 executed at 2025-04-10 21:26:26
+CRITICAL [Memory] Memory leak detected in process 4349
+DEBUG [Disk] Disk usage at 84% on D:
+INFO [System] Service SSH started at 2025-04-11 01:08:44
+INFO [System] Service DB started at 2025-04-10 16:28:13
+ALERT [Auth] Intrusion detected from IP 227.40.51.73
+ERROR [System] Panic: kernel fault at 2025-04-11 03:51:47
+INFO [System] Service SSH started at 2025-04-10 19:29:57
+CRITICAL [Memory] Memory leak detected in process 9571
+DEBUG [Cache] Cache refreshed for key session123
+INFO [Scheduler] Job 4373 executed at 2025-04-11 04:39:11
+CRITICAL [Memory] Memory leak detected in process 9307
+STACKTRACE >>> NullReferenceException at module auth
+STACKTRACE >>> NullReferenceException at module net
+ALERT [Auth] Intrusion detected from IP 183.23.76.32
+INFO [Auth] User bob logged in from IP 130.131.104.95
+ALERT [Auth] Intrusion detected from IP 42.222.161.73
+INFO [Scheduler] Job 1939 executed at 2025-04-10 23:12:50
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+INFO [Scheduler] Job 8134 executed at 2025-04-10 23:19:20
+INFO [System] Service SSH started at 2025-04-10 16:37:03
+INFO [System] Service HTTP started at 2025-04-10 07:00:05
+ALERT [Auth] Intrusion detected from IP 171.118.176.211
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-10 14:04:26
+ERROR [System] Panic: kernel fault at 2025-04-10 20:41:46
+STACKTRACE >>> NullReferenceException at module db
+ERROR [System] Panic: kernel fault at 2025-04-10 21:03:02
+ALERT [Auth] Intrusion detected from IP 33.15.212.220
+STACKTRACE >>> NullReferenceException at module auth
+INFO [Scheduler] Job 2622 executed at 2025-04-10 16:08:41
+CRITICAL [Memory] Memory leak detected in process 8384
+INFO [System] Service DNS started at 2025-04-10 09:58:14
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 3100
+INFO [Scheduler] Job 3034 executed at 2025-04-10 05:27:54
+INFO [System] Service DB started at 2025-04-10 15:12:01
+INFO [System] Service SSH started at 2025-04-10 21:34:05
+INFO [System] Service SSH started at 2025-04-10 20:33:49
+DEBUG [Cache] Cache refreshed for key profileXYZ
+ALERT [Auth] Intrusion detected from IP 59.147.115.230
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+CRITICAL [Memory] Memory leak detected in process 3595
+ERROR [System] Panic: kernel fault at 2025-04-10 08:19:26
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-10 18:57:57
+INFO [Auth] User charlie logged in from IP 64.44.123.187
+STACKTRACE >>> NullReferenceException at module cache
+INFO [Auth] User admin logged in from IP 65.201.12.119
+ERROR [System] Panic: kernel fault at 2025-04-10 08:23:57
+INFO [Scheduler] Job 8228 executed at 2025-04-10 19:24:15
+DEBUG [Disk] Disk usage at 95% on C:
+ERROR [System] Panic: kernel fault at 2025-04-10 10:05:27
+DEBUG [Disk] Disk usage at 52% on E:
+ALERT [Auth] Intrusion detected from IP 152.103.234.54
+STACKTRACE >>> NullReferenceException at module net
+ERROR [System] Panic: kernel fault at 2025-04-11 01:42:10
+ERROR [System] Panic: kernel fault at 2025-04-10 06:56:13
+DEBUG [Cache] Cache refreshed for key profileXYZ
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module net
+STACKTRACE >>> NullReferenceException at module net
+INFO [System] Service SSH started at 2025-04-10 10:47:08
+ERROR [System] Panic: kernel fault at 2025-04-10 15:06:18
+STACKTRACE >>> NullReferenceException at module db
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ERROR [System] Panic: kernel fault at 2025-04-10 21:18:26
+DEBUG [Disk] Disk usage at 80% on D:
+INFO [System] Service SSH started at 2025-04-10 20:57:22
+INFO [System] Service HTTP started at 2025-04-10 20:50:38
+DEBUG [Cache] Cache refreshed for key item42
+INFO [System] Service SSH started at 2025-04-10 06:01:50
+DEBUG [Cache] Cache refreshed for key profileXYZ
+INFO [Auth] User admin logged in from IP 101.143.230.51
+DEBUG [Disk] Disk usage at 72% on E:
+INFO [Scheduler] Job 6662 executed at 2025-04-10 12:43:04
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module db
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+STACKTRACE >>> NullReferenceException at module auth
+INFO [System] Service DB started at 2025-04-10 08:47:33
+STACKTRACE >>> NullReferenceException at module auth
+STACKTRACE >>> NullReferenceException at module db
+STACKTRACE >>> NullReferenceException at module db
+INFO [System] Service HTTP started at 2025-04-10 05:19:18
+ERROR [System] Panic: kernel fault at 2025-04-10 16:30:40
+INFO [Auth] User bob logged in from IP 26.238.202.187
+ERROR [System] Panic: kernel fault at 2025-04-11 03:25:44
+ALERT [Auth] Intrusion detected from IP 78.75.40.180
+STACKTRACE >>> NullReferenceException at module net
+DEBUG [Cache] Cache refreshed for key session123
+MALFORMED_LOG_ENTRY_###_@!*!@#^!
+ALERT [Auth] Intrusion detected from IP 104.157.250.252
+DEBUG [Cache] Cache refreshed for key item42
+INFO [Scheduler] Job 9048 executed at 2025-04-10 10:48:21
+DEBUG [Cache] Cache refreshed for key session123
+INFO [Scheduler] Job 4330 executed at 2025-04-10 12:10:39
+INFO [System] Service DNS started at 2025-04-10 08:31:33
+INFO [Scheduler] Job 6110 executed at 2025-04-11 04:20:25
+INFO [System] Service DB started at 2025-04-11 00:09:11
+ALERT [Auth] Intrusion detected from IP 171.122.7.159
+INFO [Auth] User admin logged in from IP 154.237.151.169
+DEBUG [Disk] Disk usage at 72% on E:
+ERROR [System] Panic: kernel fault at 2025-04-11 04:34:28
+ERROR [System] Panic: kernel fault at 2025-04-10 10:23:30
+CRITICAL [Memory] Memory leak detected in process 2414
+INFO [System] Service DB started at 2025-04-10 14:10:25
+INFO [System] Service DB started at 2025-04-10 07:22:12
+DEBUG [Cache] Cache refreshed for key profileXYZ

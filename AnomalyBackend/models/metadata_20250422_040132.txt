@@ -1,0 +1,4 @@
+Model Timestamp: 20250422_040132
+Logs Used: 36403 lines
+Model Path: models/autoencoder_20250422_040132.pt
+Scaler Path: models/scaler_20250422_040132.save
